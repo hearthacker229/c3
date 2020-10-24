@@ -16,9 +16,9 @@ int main () {
    double f1 = 13.5; 
    double f2 = 20.7; 
    cout << "Max(f1, f2): " << Max(f1, f2) << endl; 
-
-   string s1 = "Hello"; 
-   string s2 = "World"; 
+//my name is devol 
+   string s1 = "Hello world "; 
+   string s2 = "World hellow"; 
    cout << "Max(s1, s2): " << Max(s1, s2) << endl; 
 
    return 0;
